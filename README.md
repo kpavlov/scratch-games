@@ -7,4 +7,7 @@ Games written in [Scratch](https://scratch.mit.edu)
 
 ## Games
 
-- [Bug and Apple](Bug-and-Apple.sb3)
+### [Bug and Apple](Bug-and-Apple.sb3)
+
+A Bug collecting apples
+![](Bug-and-Apple.png)
