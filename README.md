@@ -9,5 +9,7 @@ Games written in [Scratch](https://scratch.mit.edu)
 
 ### [Bug and Apple](Bug-and-Apple.sb3)
 
-A Bug collecting apples
+A Bug collecting apples.
+
+Simple game should be doable by primary school students in 45 minutes
 ![](Bug-and-Apple.png)
