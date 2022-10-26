@@ -7,9 +7,17 @@ Games written in [Scratch](https://scratch.mit.edu)
 
 ## Games
 
-### [Bug and Apple](Bug-and-Apple.sb3)
+### [Bug and Apple](bug-and-apple/Bug-and-Apple.sb3)
 
 A Bug collecting apples.
 
 Simple game should be doable by primary school students in 45 minutes
-![](Bug-and-Apple.png)
+![](bug-and-apple/Bug-and-Apple.png)
+
+### [Tennis](tennis/Tennis.sb3)
+
+Table Tennis/Arkanoid
+
+Simple [Arkanoid](https://en.wikipedia.org/wiki/Arkanoid)-style game, but without falling gems
+
+![](tennis/Tennis.png)
